@@ -1,0 +1,31 @@
+.card {
+    background-color: #28104e;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #28104e99;
+    margin: 10px 0 10px 0;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.buttonCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonCenter button {
+    margin: 0;
+}
+
+.listItem {
+    list-style-type: '✅';
+    padding-inline-start: 1ch;
+}

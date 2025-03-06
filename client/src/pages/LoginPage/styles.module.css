@@ -1,0 +1,26 @@
+.marginTop {
+    margin-top: 20vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardForm {
+    width: 30vw;
+    background-color: #28104e;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.buttonCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonCenter button {
+    margin: 0;
+}

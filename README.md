@@ -1,0 +1,1 @@
+To launch project go to server directory in console and type npm install, npm install nodemon, then npm start. This will launch server on port 5555. Then go to client directory in console and type npm install, then npm start. This will launch client on port 3000. Also mongoDB database is required to be launched before using client app.

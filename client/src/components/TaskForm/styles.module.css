@@ -1,0 +1,52 @@
+.card {
+    background-color: #28104e;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #28104e99;
+    margin: 10px 0 10px 0;
+}
+
+.card h2 {
+    user-select: none;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input, textarea {
+    margin: 1vh 0 1vh 0;
+    padding: 1vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #9754cb;
+    color: white;
+}
+
+::placeholder {
+    color: white;
+    opacity: 1; /* Firefox */
+}
+  
+::-ms-input-placeholder { /* Edge 12 -18 */
+    color: white;
+}
+
+.buttonSubmit {
+    margin-top: 2vh;
+    font-size: large;
+}
+
+textarea {
+    height: 8vh;
+}
+
+.buttonCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonCenter button {
+    margin: 0;
+}
