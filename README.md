@@ -418,7 +418,7 @@ cd team-task-board
 cd server
 ```
 
-4. Run the server:
+4. Run the server app:
 
 **Using `npm`**
 
@@ -431,7 +431,7 @@ npm start
 cd team-task-board/client
 ```
 
-6. Run the client:
+6. Run the client app:
 
 **Using `npm`**
 
