@@ -36,6 +36,12 @@
 
 Team Task Board is a collaborative task management web application streamlining teamwork.  It features user authentication, task creation & editing, due date sorting, and a clean, intuitive interface.  Ideal for teams needing a simple, efficient way to manage projects and boost productivity.
 
+![Registration](./screenshots/registration.jpg)
+![Home](./screenshots/home.jpg)
+![Login](./screenshots/login.jpg)
+![User Initial View](./screenshots/user-initial-view.jpg)
+![User Add Edit View](./screenshots/user-add-edit-view.jpg)
+
 ---
 
 ##  Features
